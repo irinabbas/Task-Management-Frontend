@@ -5,7 +5,7 @@ This is the frontend of the **Task Management** application, built using **Vue.j
 ## Features
 
 - **User Authentication**: Login, registration and logout functionality.
-- **Task Management**: Create, update, delete, and list tasks.Filter tasks by status (e.g., Pending, In Progress, Completed).
+- **Task Management**: Create, update, delete, and list tasks. Filter tasks by status (e.g., Pending, In Progress, Completed).
   Sort tasks by due date.
 
 ## Installation
